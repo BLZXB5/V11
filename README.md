@@ -1,4 +1,4 @@
-Simpel WhatsApp Bot
+Miyuki WhatsApp Bot
 
 ## FOR TERMUX USER
 
